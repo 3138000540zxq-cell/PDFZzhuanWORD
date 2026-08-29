@@ -1,0 +1,33 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+*.pyo
+.build-venv/
+.venv/
+venv/
+
+# Build outputs
+build/
+dist/
+dist_new/
+PDF转Word启动器_完整版/
+
+# Runtime data (may contain private documents)
+logs/
+outputs/
+*.log
+
+# Local editor and Codex context
+.vscode/
+.idea/
+.codex/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary or obsolete local files
+_patch.py
+PDF转Word启动器.spec
+
